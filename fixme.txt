@@ -1,0 +1,1 @@
+Closing of parent window on closing of child window regardless of parent save state.
